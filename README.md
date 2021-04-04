@@ -1,3 +1,3 @@
 # OSPM
-Master's course in OS Project Management &amp; Business Development
-https://daskalov.info/courses/
+Master's course in OS Project Management &amp; Business Development.
+Full overview: https://daskalov.info/courses/
